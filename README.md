@@ -13,7 +13,7 @@ A aplicação inclui:
 ## 👥 Equipe de Desenvolvimento
 
 ### 🔧 Back-End
-- [@daviisp](https://github.com/daviisp)
+- [@daviisp](https://github.com/daviisp)<br>Lógica do back-end extraida de um de seus projetos. [ACESSE AQUI](https://github.com/daviisp/finance-app-backend)
 
 ### 🎨 Front-End
 - [@Yanlucca0205](https://github.com/YANLUCCA0205/YanLucca0205)
