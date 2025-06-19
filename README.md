@@ -8,7 +8,8 @@ A aplicação inclui:
 - Exemplos de uso
 - Funcionalidades principais
 
-> ⚠️ **Atenção:** Este projeto foi desenvolvido em colaboração com outros membros de equipe. A autoria não é exclusiva.
+> [!WARNING]
+> Este projeto foi desenvolvido em colaboração com outros membros de equipe. A autoria não é exclusiva.
 
 ## 👥 Equipe de Desenvolvimento
 
