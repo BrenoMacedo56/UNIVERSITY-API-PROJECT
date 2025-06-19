@@ -1,8 +1,28 @@
-# Documentação do Projeto de Aplicação Financeira
+# 📘 Documentação do Projeto de Aplicação Financeira
 
-Este documento detalha os principais aspectos técnicos e funcionais do projeto de aplicação financeira, abrangendo os endpoints da API, instruções de instalação e deploy, exemplos de uso e as funcionalidades oferecidas.
+Este repositório contém a documentação técnica e funcional de uma aplicação financeira desenvolvida como **trabalho final da disciplina _Linguagem de Programação para Internet_** do curso de **Sistemas de Informação** da **Universidade de Uberaba (UNIUBE)**.
 
+A aplicação inclui:
+- Endpoints da API
+- Instruções de instalação e deploy
+- Exemplos de uso
+- Funcionalidades principais
+
+> ⚠️ **Atenção:** Este projeto foi desenvolvido em colaboração com outros membros de equipe. A autoria não é exclusiva.
+
+## 👥 Equipe de Desenvolvimento
+
+### 🔧 Back-End
+- [@daviisp](https://github.com/daviisp)
+
+### 🎨 Front-End
+- [@Yanlucca0205](https://github.com/YANLUCCA0205/YanLucca0205)
+
+---
+
+Sinta-se à vontade para explorar os arquivos e contribuir!
 ## 1. Endpoints da API
+
 
 A API do projeto é construída com Node.js e Express, fornecendo uma interface RESTful para a gestão de usuários e transações financeiras. Os endpoints são categorizados da seguinte forma:
 
